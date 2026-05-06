@@ -1,13 +1,13 @@
 ## Horse Name: Adal Guarani
 ## Age: [Age]
-## Breed: [Breed]
+## Breed: Pura Raza Española (PRE)
 
 ### Family Tree
-- Sire: 
-- Dam: 
+- Sire: Adal Legendario
+- Dam: Guarania
 
 ### Competitions & Awards
 - [Year]: [Award]
 
 ### Medical / Notes
-- [Note]
+- Strong athletic build, used for breeding and dressage.

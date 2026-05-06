@@ -1,13 +1,13 @@
 ## Horse Name: Adal Aladino
 ## Age: [Age]
-## Breed: [Breed]
+## Breed: Pura Raza Española (PRE)
 
 ### Family Tree
-- Sire: 
-- Dam: 
+- Sire: Digital
+- Dam: Aladina
 
 ### Competitions & Awards
 - [Year]: [Award]
 
 ### Medical / Notes
-- [Note]
+- Experienced stallion, competitor in morphological championships.
